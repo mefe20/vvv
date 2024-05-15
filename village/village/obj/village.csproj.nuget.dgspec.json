@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Azerty\\Desktop\\village\\village\\village\\village.csproj": {}
+    "C:\\Users\\Azerty\\Desktop\\village\\vvv\\village\\village\\village.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Azerty\\Desktop\\village\\village\\village\\village.csproj": {
+    "C:\\Users\\Azerty\\Desktop\\village\\vvv\\village\\village\\village.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Azerty\\Desktop\\village\\village\\village\\village.csproj",
+        "projectUniqueName": "C:\\Users\\Azerty\\Desktop\\village\\vvv\\village\\village\\village.csproj",
         "projectName": "village",
-        "projectPath": "C:\\Users\\Azerty\\Desktop\\village\\village\\village\\village.csproj",
+        "projectPath": "C:\\Users\\Azerty\\Desktop\\village\\vvv\\village\\village\\village.csproj",
         "packagesPath": "C:\\Users\\Azerty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Azerty\\Desktop\\village\\village\\village\\obj\\",
+        "outputPath": "C:\\Users\\Azerty\\Desktop\\village\\vvv\\village\\village\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

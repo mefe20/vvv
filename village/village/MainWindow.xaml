@@ -3,8 +3,19 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="Village Placement App" Height="500" Width="800">
     <Grid>
-        <Canvas Name="canvas" Background="White"/>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Vertical" VerticalAlignment="Top" Margin="5">
+            <Label Content="Поиск деревни" FontSize="16"/>
+            <StackPanel Orientation="Horizontal">
+            </StackPanel>
+        </StackPanel>
+        <Canvas Name="canvas" Grid.Row="1">
+            <Canvas.Background>
+                <ImageBrush ImageSource="C:\Users\Azerty\Downloads\map.jpg"></ImageBrush>
+            </Canvas.Background>
+        </Canvas>
     </Grid>
 </Window>
-
-

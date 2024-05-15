@@ -29,11 +29,9 @@ namespace VillagePlacementApp
                 {
                     marker = new Ellipse
                     {
-                        Width = 10,
-                        Height = 10,
-                        Fill = Brushes.Brown, 
-                        Stroke = Brushes.Black,
-                        StrokeThickness = 1
+                        Width = 15,
+                        Height = 15,
+                        Fill = new ImageBrush(new BitmapImage(new Uri("C:\\Users\\Azerty\\Downloads\\village.png")))
                     };
                 }
                 else
